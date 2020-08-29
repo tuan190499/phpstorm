@@ -6,4 +6,5 @@ $c = $b - 1;
 $d = 1;
 $change = 1;
 $chang2  = 2;
+$x = 0;
 echo $c;
