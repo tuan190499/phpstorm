@@ -7,4 +7,5 @@ $d = 1;
 $change = 1;
 $chang2  = 2;
 $x = 0;
+$y = "a";
 echo $c;
