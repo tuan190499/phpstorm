@@ -8,4 +8,6 @@ $change = 1;
 $chang2  = 2;
 $x = 0;
 $y = "a";
+$c = 2;
 echo $c;
+echo $x;
